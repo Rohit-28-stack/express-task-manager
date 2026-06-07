@@ -1,0 +1,55 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #18181b;
+}
+.form{
+    padding: 40px;  
+    width: 100%;
+    color: aliceblue;
+}
+
+.tittle {
+   
+    display: block;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: #27272a;
+      width: 100%;
+      border-radius: 8px;
+       outline: none;
+       color: white;
+      
+   
+
+}
+
+.text-area {
+    color: white;
+    display: block;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: #27272a;
+    resize: none;
+    margin-top: 8px;
+    width: 100%;
+     border-radius: 8px;
+     outline: none;
+}
+
+.btn-submit {
+    display: block;
+    margin-top: 8px;
+    background-color: rgb(12, 12, 235);
+      
+} */
